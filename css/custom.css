@@ -184,6 +184,7 @@ ul.socialicons li a:hover {
 
 .avatar {
     position: relative;
+	margin-top: 10px;
 }
 
 .avatar img {
